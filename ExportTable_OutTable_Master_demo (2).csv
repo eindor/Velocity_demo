@@ -1,4 +1,4 @@
-type;kjoretoy_ID;Hendelses_ID;demo_time;Bemanning;Innsatsleder;POINT_X;POINT_Y;sekvens
+type_nodetat;kjoretoy_ID;Hendelses_ID;demo_time;Bemanning;Innsatsleder;POINT_X;POINT_Y;sekvens
 Politi;P03;H_043;2026-01-15T10:00:10Z;3;Bjarte Olavsen;5.736538726849496;58.962282891493345;1
 Ambulanse;A_012;H_043;2026-01-15T10:00:15Z;3;Ole Kyrres;5.703256652737275;58.929507728293736;1
 Politi;P03;H_043;2026-01-15T10:00:15Z;3;Bjarte Olavsen;5.735760320316543;58.962913725532765;2
